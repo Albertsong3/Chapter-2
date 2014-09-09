@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{C5BDAE4C-2683-4100-9790-3715E68E3E71}</ProjectGuid>
+    <ProjectGuid>{6C88013E-6608-4643-B2CB-70BA049DC97A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Yard</RootNamespace>
-    <AssemblyName>Yard</AssemblyName>
+    <RootNamespace>Hours_and_Minutes</RootNamespace>
+    <AssemblyName>Hours and Minutes</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>

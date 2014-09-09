@@ -13,7 +13,7 @@ namespace Carpet
             double PriceOfCarpeting = 4.3;
             double cost = PriceOfCarpeting * length * width;
 
-            Console.WriteLine("The cost of carpeting is {0}", PriceOfCarpeting.ToString("C"));
+            Console.WriteLine("The cost of carpeting is {0}", cost.ToString("C"));
         }
     }
 }

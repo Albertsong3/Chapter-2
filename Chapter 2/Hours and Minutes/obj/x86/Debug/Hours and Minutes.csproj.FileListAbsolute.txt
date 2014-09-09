@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-2\Chapter 2\Hours and Minutes\bin\Debug\Hours and Minutes.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-2\Chapter 2\Hours and Minutes\bin\Debug\Hours and Minutes.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-2\Chapter 2\Hours and Minutes\obj\x86\Debug\Hours and Minutes.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-2\Chapter 2\Hours and Minutes\obj\x86\Debug\Hours and Minutes.pdb
