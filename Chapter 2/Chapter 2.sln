@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yard", "Yard\Yard.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hours and Minutes", "Hours and Minutes\Hours and Minutes.csproj", "{6C88013E-6608-4643-B2CB-70BA049DC97A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eggs", "ConsoleApplication1\Eggs.csproj", "{62D2E91D-C1F3-465D-8343-A233693436B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,6 +33,10 @@ Global
 		{6C88013E-6608-4643-B2CB-70BA049DC97A}.Debug|x86.Build.0 = Debug|x86
 		{6C88013E-6608-4643-B2CB-70BA049DC97A}.Release|x86.ActiveCfg = Release|x86
 		{6C88013E-6608-4643-B2CB-70BA049DC97A}.Release|x86.Build.0 = Release|x86
+		{62D2E91D-C1F3-465D-8343-A233693436B0}.Debug|x86.ActiveCfg = Debug|x86
+		{62D2E91D-C1F3-465D-8343-A233693436B0}.Debug|x86.Build.0 = Debug|x86
+		{62D2E91D-C1F3-465D-8343-A233693436B0}.Release|x86.ActiveCfg = Release|x86
+		{62D2E91D-C1F3-465D-8343-A233693436B0}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
