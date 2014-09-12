@@ -10,7 +10,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             
-            int length = 15,width = 25, area;//why do you put the area variable here
+            int length = 15,width = 25, area;
 
             area = length * width;
 
